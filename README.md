@@ -11,5 +11,5 @@ Now i am a InternShip at [tuyensinh247.com] to develop software,prodcut relate t
 
 
 ### Get in touch:
-*Twitter:[https://twitter.com/VanHung54690315]
-*LinkedIn:[https://www.linkedin.com/in/hung-van-3799081aa/]
+🐦 [twitter][twitter](https://twitter.com/VanHung54690315) **|**
+👔 [linkedin][linkedin](https://www.linkedin.com/in/hung-van-3799081aa/)
