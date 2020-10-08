@@ -1,11 +1,11 @@
 ### Vanhung ==> @hung
 
-Now i am a InternShip at [tuyensinh247](tuyensinh247.com) to develop software,prodcut relate to education....!!!
+Now i am a InternShip at [tuyensinh247](https://tuyensinh247.com) to develop software,prodcut relate to education....!!!
 
 
 
 ### My experiment..
-- 🌱 I’m have experiment working with Node js, React(library Material UI, Ant desing), Sequelize, Mongodb
+- 🌱 I’m have experiment working with Node js, React(library Material UI, Ant desing), Sequelize, Mongodb,Redis
 - 📫 Have knowlegde about Restfull API
 - 🔭 have been researching Java, Servlet and Spring MVC
 
