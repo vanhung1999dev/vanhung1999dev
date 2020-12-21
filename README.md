@@ -1,12 +1,21 @@
-### Vanhung ==> @LEO
+### Hi there 👋, I am hung(LEO)
+#### Web development
+![Web development](https://wallpapercave.com/wp/wp5861473.jpg)
 
-Now i am a InternShip at [tuyensinh247](https://tuyensinh247.com) to develop software,prodcut relate to education....!!!
+
+Skills:  REACT / JS / HTML / CSS / Nodejs MongoDB /Java / Mysql
+
+- 🔭 I’m currently working on Now I am internship at tuyensinh247.com  
+- 🌱 I’m currently learning I'm currently studying Information Technology at Ha Noi University Of Industry 
 
 
-### My experiment..
-- 🌱 I’m have experimence working with Node js, React(library Material UI, Ant design), Sequelize, Mongodb,Redis
-- 📫 Have knowlegde about Restfull API
-- 🔭 have been researching Java, Servlet and Spring MVC
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vanhung1999dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hung-van-3799081aa/)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhung1999dev)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/vanhung1999dev)  
 
 
 ### Get in touch:
