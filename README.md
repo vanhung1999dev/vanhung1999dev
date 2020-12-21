@@ -1,6 +1,6 @@
 ### Hi there 👋, I am hung(LEO)
 #### Web development
-![Web development](https://wallpapercave.com/wp/wp5861473.jpg)
+![Web development](https://codermart.vn/wp-content/uploads/2020/08/hello-world-banner.png)
 
 
 Skills:  REACT / JS / HTML / CSS / Nodejs MongoDB /Java / Mysql
