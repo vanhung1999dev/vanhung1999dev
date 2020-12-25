@@ -1,8 +1,8 @@
 ### Hi there 👋, my name hung(LEO)
 #### I am Web Development
-![I am Web Development](https://codermart.vn/wp-content/uploads/2020/08/hello-world-banner.png)
+![I am Web Development]
 
-<img src='https://codermart.vn/wp-content/uploads/2020/08/hello-world-banner.png' width='1000' height='400' >
+<img src='https://codermart.vn/wp-content/uploads/2020/08/hello-world-banner.png' width='800' height='300' >
 
 
 Skills: REACT / JS / HTML / CSS / NODEJS / JAVA / SQL / MONGODB
