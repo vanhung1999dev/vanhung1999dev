@@ -2,7 +2,7 @@
 #### I am Web Development
 ![I am Web Development](https://codermart.vn/wp-content/uploads/2020/08/hello-world-banner.png)
 
-[<img src='https://codermart.vn/wp-content/uploads/2020/08/hello-world-banner.png' width='100' >]
+<img src='https://codermart.vn/wp-content/uploads/2020/08/hello-world-banner.png' width='1000' height='400' >
 
 
 Skills: REACT / JS / HTML / CSS / NODEJS / JAVA / SQL / MONGODB
