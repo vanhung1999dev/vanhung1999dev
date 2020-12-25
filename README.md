@@ -13,6 +13,4 @@ Skills: REACT / JS / HTML / CSS / NODEJS / JAVA / SQL / MONGODB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanhung1999dev&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vanhung1999dev)  
-
  
