@@ -4,9 +4,9 @@
 <img src='https://codermart.vn/wp-content/uploads/2020/08/hello-world-banner.png' width='1000' height='300' >
 
 
-Skills: REACT / JS / HTML / CSS / NODEJS / JAVA / SQL / MONGODB
+Skills: REACT / JS / HTML / CSS / NODEJS / JAVA / SQL / MONGODB 
 
-- 🔭 I’m currently working on  tuyensinh247.com   
+- 🔭 Have interested in with DevOps
 - 🌱 I’m learning about Information Technology at Ha Noi University Of Industry  
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanhung1999dev&show_icons=true)
