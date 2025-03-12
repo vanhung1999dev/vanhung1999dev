@@ -1,13 +1,19 @@
-### Hi there 👋, my name hung(LEO)
-#### I am Web Development
+### Hi there 👋, my name is Hưng(LEO)
+#### I am Software Development!
 
-<img src='https://codermart.vn/wp-content/uploads/2020/08/hello-world-banner.png' width='1000' height='300' >
+- Familiar in designing and implementing RESTful APIs and have a knowledge about
+microservice.
+- Good knowledge in utilizing frameworks like Express.js and Nest.js to streamline
+development processes. Skilled in database optimization, caching strategies, and
+ensuring data integrity.
+- Experienced in system integration with Amazon Web Service ( Ec2, CA, Load
+Balancer, Route 52, CloudFront, S3,...).
+- I have extensive knowledge of Docker, GitlabCi, .. and related technologies and have
+experience in designing scalability, high availability and high-performance backend
+systems using Load Balancing, Caching, Message Queue System.
 
 
-Skills: REACT / JS / HTML / CSS / NODEJS / JAVA / SQL / MONGODB 
-
-- 🔭 Have interested in with DevOps
-- 🌱 I’m learning about Information Technology at Ha Noi University Of Industry  
+Skills: NestJS / ExpressJs / SQL / MONGODB / Mysql / Postgresql / Redis / MemeCache / Kafka / EC2 / S3 / CloudFront / CA / Route 53 / Load Balancer / Nginx / Docker / CICD / REACT / JS / HTML / CSS /
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanhung1999dev&show_icons=true)
 
